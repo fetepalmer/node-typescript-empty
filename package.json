@@ -9,7 +9,7 @@
     "tsc": "tsc",
     "watch-ts": "tsc -w",
     "build": "tsc && npm run tslint",
-    "prepare": "npm run-script build",
+    "prepublishOnly": "npm run-script build",
     "start": "node dist/index.js",
     "launch": "npm run build && npm start",
     "tslint": "tslint -c tslint.json -p tsconfig.json 'src/**/*.ts'"
