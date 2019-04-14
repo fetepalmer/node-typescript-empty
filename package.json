@@ -17,9 +17,6 @@
     "type": "git",
     "url": "git+https://github.com/zorzal2/typescript-empty-app.git"
   },
-  "keywords": [
-    "logger"
-  ],
   "author": "jperez",
   "license": "ISC",
   "bugs": {
