@@ -2,7 +2,7 @@
   "name": "@zorzal2/hello-world",
   "version": "0.1.0",
   "description": "Base para proyectos en typescript",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest",
